@@ -1,0 +1,140 @@
+
+
+
+body { 
+  background: rgb(236, 236, 236);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  #title {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #2aa0a0; 
+    color: #ffffff; 
+    text-align: left;
+    font-weight: bold;
+    font-size: 40px;
+    }
+  #navcontent{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    }
+
+  div .jumbotron {
+  position: relative;
+  margin-top: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: justify;
+  }
+  #summ_text{
+    float: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 12px;
+    color: rgb(66, 66, 66);
+    text-align: start;
+    }
+  #summary {
+    float: left;
+    height: 280px;
+    width: 370px;
+  }
+  #summary2 {
+     float: left;
+      height: 350px;
+      width: 480px;
+      align-items: center;
+      
+    }
+  #figure {
+    position: static;
+    }
+  #header{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#2aa0a0;
+    font-weight: bold;
+     }
+  #subheader{
+    text-align: center;
+    padding-left: 30px;
+    float: relative;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#2aa0a0;
+    font-weight: ;
+      }
+ #vis {
+   float: inline-start;
+    margin-top: 5px;
+    margin-right: px;
+    margin-bottom: 5px;
+    margin-left: px;
+    height: 180px;
+    width: 220px;
+    }
+
+     .box-set {
+      position: relative;
+      height: 400px;
+      background: rgb(255, 255, 255);
+    }
+    
+    .box-set2 {
+      position: relative;
+      height: 900px;
+      background: rgb(255, 255, 255);
+    }
+    
+    
+    .box-1 {
+      
+    }
+    
+    .box-2 {
+      
+    }
+    
+    .box-3 {
+      
+    }
+
+    .box-4 {
+
+    }
+
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+
+  table {
+    border-collapse: collapse;
+
+  }
+  .dataframe {
+  
+      
+      border-collapse: collapse;
+
+      padding: 15px;
+      text-align: left;
+  
+      width: 100%;    
+
+    
+  }
+
+  #df {
+
+    background-color: rgb(195, 223, 230)
+  }
